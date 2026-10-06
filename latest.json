@@ -1,8 +1,8 @@
 {
   "app": "fly",
-  "version": "2.3.7",
+  "version": "2.3.8",
   "major": 2,
   "min_from": "",
-  "notes": "تحديث 2.3.7: أثر التعديل المباشر على الأرصدة، مربع «الحالة» في الكشوف، التحديث عبر الإنترنت لكل المستخدمين، وإصلاح الاستخراج.",
-  "url": "https://raw.githubusercontent.com/mahmoudahmorsy/fly-updates/refs/heads/main/Fly-Update-2.3.7.flyup"
+  "notes": "تحديث تجريبي 2.3.8: التحديث من الجهاز الرئيسي فقط، رسالة تنبيه قبل التحديث، وإغلاق الأجهزة الفرعية تلقائيًا أثناء التحديث.",
+  "url": "https://raw.githubusercontent.com/mahmoudahmorsy/fly-updates/refs/heads/main/Fly-Update-2.3.8.flyup"
 }
